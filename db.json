@@ -1,1 +1,73 @@
-
+[
+  {
+    "user": {
+      "name": "John",
+      "number": 1,
+      "email": "john@abc.com"
+    }
+  },
+  {
+    "user": {
+      "name": "Shane",
+      "number": 2,
+      "email": "shane@abc.com"
+    }
+  },
+  {
+    "user": {
+      "name": "Lance",
+      "number": 3,
+      "email": "lance@abc.com"
+    }
+  },
+  {
+    "user": {
+      "name": "Clerk",
+      "number": 4,
+      "email": "clerk@abc.com"
+    }
+  },
+  {
+    "user": {
+      "name": "Shaun",
+      "number": 5,
+      "email": "shaun@abc.com"
+    }
+  },
+  {
+    "user": {
+      "name": "Von",
+      "number": 6,
+      "email": "von@abc.com"
+    }
+  },
+  {
+    "user": {
+      "name": "Xin",
+      "number": 7,
+      "email": "xin@abc.com"
+    }
+  },
+  {
+    "user": {
+      "name": "STella",
+      "number": 8,
+      "email": "stella@abc.com"
+    }
+  },
+  {
+    "user": {
+      "name": "Mary",
+      "number": 9,
+      "email": "mary@abc.com"
+    }
+  },
+  
+{
+    "user": {
+      "name": "Angi",
+      "number": 10,
+      "email": "angy@abc.com"
+    }
+  }
+ ]
